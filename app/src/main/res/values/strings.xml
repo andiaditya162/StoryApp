@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string name="require_name">Username harus diisi</string>
+    <string name="invalid_email">Gunakan format email yang valid</string>
+    <string name="invalid_password">Kata sandi harus 8 karakter</string>
+    <string name="greeting">Hello %s!</string>
+    <string name="created_add">Diposting pada %1$s</string>
+    <string name="register">Daftar</string>
+    <string name="have_no_account">Belum memiliki akun?</string>
+    <string name="input_password">Masukkan Password</string>
+    <string name="password">Password</string>
+    <string name="input_email">Masukkan Email</string>
+    <string name="email">Email</string>
+    <string name="welcome_text">Hello there, sign in to continue!</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="add_story">Add Story</string>
+    <string name="galeri">Galeri</string>
+    <string name="camera">Camera</string>
+    <string name="add_description">Masukkan deskripsi cerita Anda …</string>
+    <string name="upload">Upload</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="share_experience">Bagikan keseruan anda kepada pengguna lain</string>
+    <string name="get_started">Get Started</string>
+    <string name="logout">Logout</string>
+    <string name="create_account">Create New Account</string>
+    <string name="enter_credentials">Please enter your credentials to proceed</string>
+    <string name="nama">Nama</string>
+    <string name="add_name">Masukkan Nama</string>
+    <string name="already_have_account">Sudah memiliki akun?</string>
+    <string name="login">Masuk</string>
+    <string name="no_stories">Tidak ada cerita</string>
+    <string name="make_your_storie">Silahkan buat ceritamu sendiri</string>
+</resources>
